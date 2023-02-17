@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernadetha-Prosper
 - 👀 I’m interested in data analysis and web development
-- 🌱 I’m currently improving my skills in data science
+- 🌱 Currently improving my skills in data science
 - 💞️ Looking to collaborate on web and data analysis projects
 - 📫 Contact me at bernadethaprosper@gmail.com
 
